@@ -1,0 +1,34 @@
+#partners{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #181818;
+}
+
+.partners{
+    color: white;
+
+}
+.partners__matin{
+    text-align: center;
+}
+
+.partners__matin h1{
+    font-size:50px;
+    margin-bottom:15px ;
+}
+
+.partners__imgs__box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin-top:50px ;
+}
+
+.partners__btn{
+        width: 150px;
+            height: 50px;
+            background-color: transparent;
+            border-color: white;
+            border-radius: 1px 1px 10px;
+            color: white;
+            margin-top: 50px;
+}

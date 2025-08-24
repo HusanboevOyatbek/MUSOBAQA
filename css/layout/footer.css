@@ -1,0 +1,43 @@
+footer{
+    background-color: #181818;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.Footer{
+  display: flex;
+  justify-content: space-between;
+    align-items: center;
+}
+
+.footer__ular{
+    color: white;
+    line-height: 40px;
+}
+.footer__ular li{
+    font-size: 19px;
+}
+
+.uls{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.flixs{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: white;
+}
+
+
+.boglanish{
+    line-height: 70px;
+}
+
+.foter__elektron__manzil{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}

@@ -1,0 +1,19 @@
+#contact{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #181818;
+}
+
+.contact__matin{
+    text-align: center;
+    color: white;
+}
+
+.contact__matin h1{
+font-size: 52px;
+margin-bottom:10px ;
+}
+
+.contact__matin p{
+    margin-bottom: 55px;
+}

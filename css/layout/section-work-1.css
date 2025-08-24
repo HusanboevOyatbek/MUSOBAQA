@@ -1,0 +1,47 @@
+#work{
+    background-color: #181818;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.Work{
+    text-align: center;
+}
+
+.Work h1{
+    font-size: 80px;
+    color: white;
+    margin-bottom:30px ;
+}
+
+.Work p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom:95px;   
+}
+
+
+.work__btn__card{
+    display: flex;
+    
+    text-align: center;
+        display: inline;
+}
+
+.work__btn__card button{
+    width: 180px;
+    height: 65px;
+    
+}
+
+
+
+.work__btn-1{
+    background-color:#4452FE ;
+    color:white;
+}
+.work__btn-2{
+    background-color: transparent;
+    border-color:white;
+}

@@ -1,0 +1,32 @@
+header{
+    background-color: #181818;
+}
+
+.Navbar{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Navbar ul a{
+    color: white;
+}
+
+.header__ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+}
+
+.header__btn{
+    width: 150px;
+    height: 55px;
+    color: white;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 1px 1px 10px;
+    border-color: rgb(228, 69, 30);
+}

@@ -1,0 +1,53 @@
+#feature{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #181818;
+        
+}
+
+
+.feature__card__box{
+    color: white;
+}
+
+
+.calendar{
+    text-align: center;
+    color: white;
+}
+
+.feature h1{
+font-size: 50px;
+margin-bottom: 30px;
+}
+
+.feature p{
+margin-bottom:80px ;
+}
+
+.feature__call{
+ display: flex;
+ justify-content: space-between;
+    gap: 30px;
+}
+
+.card__flex{
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+gap: 10px;
+}
+
+.card__flex img {
+max-width:30px ;
+
+display: inline;
+
+
+}
+
+.card__flex__p{
+display: inline;
+color: white;
+}
+
